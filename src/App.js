@@ -7,7 +7,6 @@ import {
   Redirect
 } from 'react-router-dom'
 
-import './App.css';
 import Login from './containers/login/Login';
 import Timeline from './containers/timeline/Timeline';
 import PrivateRoute from './components/privateRoute/PrivateRoute'
